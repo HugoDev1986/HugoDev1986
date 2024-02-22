@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugodev1986&label=Profile%20views&color=0e75b6&style=flat" alt="hugodev1986" /> </p>
 
-- 🌱 I’m currently learning **python-Django**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://hugosanchez.tk/](https://hugosanchez.tk/)
 
